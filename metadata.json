@@ -1,0 +1,6 @@
+{
+  "name": "Jeruk Manis ATS",
+  "description": "Article Journal Tracker & Management System featuring modern real-time tracking, deadline alerts, progress indicators, and admin notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
